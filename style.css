@@ -1,0 +1,13 @@
+body  {
+background-image: url('images/background.jpg');
+  background-size: 100% auto;
+}
+
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 72pt;
+	text-align: center;
+	font-style: italic;
+	color:white;
+	padding-top: 10vh;
+}
